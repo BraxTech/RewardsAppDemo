@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Site Demo
 
-Link:https://confident-poitras-1150d7.netlify.app/
+Link: https://confident-poitras-1150d7.netlify.app/
 
 ### Screen Shot
 
-![Screenshot](https://confident-poitras-1150d7.netlify.app/)
+![Screenshot](https://imgur.com/a/PGfl9r7)
 
 ## Available Scripts
 
