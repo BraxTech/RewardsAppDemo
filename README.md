@@ -2,13 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Site Demo
+## Site Demo
 
 Link:https://confident-poitras-1150d7.netlify.app/
 
-###Screen Shot
+### Screen Shot
 
-!Screenshot [https://confident-poitras-1150d7.netlify.app/]
+![Screenshot](https://confident-poitras-1150d7.netlify.app/)
 
 ## Available Scripts
 
