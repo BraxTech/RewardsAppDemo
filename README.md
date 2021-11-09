@@ -8,7 +8,7 @@ Link: https://confident-poitras-1150d7.netlify.app/
 
 ### Screen Shot
 
-![Screenshot](https://imgur.com/a/PGfl9r7)
+![Screenshot](https://i.imgur.com/2tbjpDq.png)
 
 ## Available Scripts
 
