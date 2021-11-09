@@ -1,4 +1,5 @@
 # Rewards App Demo **WIP**
+A Demo for a rewards admin dashboard for a retailer
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
