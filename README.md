@@ -1,6 +1,17 @@
+# Rewards App Demo **WIP**
+A Demo for a rewards admin dashboard for a retailer.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Site Demo
+
+Link: https://confident-poitras-1150d7.netlify.app/
+
+### Screen Shot
+
+![Screenshot](https://i.imgur.com/2tbjpDq.png)
 
 ## Available Scripts
 
