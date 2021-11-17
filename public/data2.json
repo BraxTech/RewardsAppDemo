@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Jason",
+        "transactions":[
+            {"month":"January","prices":[50,60, 40]}, 
+            {"month": "February", "prices":[30,20,50]},
+            {"month":"August", "prices":[50,30,120]}
+    ]
+    },
+    {
+        "name": "Freddy",
+        "transactions":[
+                {"month":"January","prices":[80,10, 40]}, 
+                {"month": "February", "prices":[18,22,50]},
+                {"month":"August", "prices":[50,90,70]}]
+
+    },{
+        "name": "Emily",
+        "transactions":[
+                {"month":"January","prices":[80,30, 40]}, 
+                {"month": "February", "prices":[30,60,20]},
+                {"month":"August", "prices":[10,35,120]}]
+    }
+
+]
